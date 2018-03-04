@@ -14,7 +14,7 @@ A websocket protocol-based server-side script.
 
 # Usage
 
-Websocket protocol based on websocket handshake communication.
+Implementation based on weboskcet protocol.
 
 Through the inheritance `BaseWSRequestHandler` class and overrides the `method` method. 
 Use the `do_Send` method to send data. Use the `do_Receive` method to receive data

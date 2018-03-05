@@ -4,7 +4,7 @@
 ![PyPI - Python Version](https://img.shields.io/badge/python-3.5%203.6-blue.svg)
 ![License](https://img.shields.io/badge/license-GPL%20v3.0-orange.svg)
 
-A websocket protocol-based server-side script.
+A websocket protocol-based server-side module.
 
 # Reference
 

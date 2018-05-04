@@ -133,7 +133,6 @@ class BaseWSRequestHandler(StreamRequestHandler):
                 self.rfile.close()
                 self.close_connection = True
 
-
     def _pack(self, fmt, msg_encode_len, msg_encode, value):
         """Pack message from self.Send() method to be binary data"""
         r = [b'\x81']

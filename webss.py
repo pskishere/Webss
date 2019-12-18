@@ -1,5 +1,4 @@
 #-*-coding:utf-8-*-
-
 import sys
 import base64
 import hashlib
